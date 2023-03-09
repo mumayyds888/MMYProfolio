@@ -153,6 +153,8 @@ nav .navlinks li a {
     margin: 45px 0;
 }
 
+
+
 .btn-group .btn {
     border-color: #d5d5d5;
     color: #fff;
@@ -167,6 +169,7 @@ nav .navlinks li a {
 
 .btn.active {
     border-color: #007ced;
+    color: #fff;
 }
 
 .hero-text .social i {
@@ -282,7 +285,7 @@ nav .navlinks li a {
     text-align: center;
 }
 
-#footer>#K {
+#footer>#A {
     margin-top: -45px;
     margin-left: 60px;
     display: flex;
